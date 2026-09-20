@@ -1,13 +1,4 @@
-"""
-Library Management System
-A simple console-based application to manage books in a library.
 
-Features:
-- Add, remove, and search books
-- Issue and return books
-- Track available copies
-- Persist data to a JSON file so it survives between runs
-"""
 
 import json
 import os
